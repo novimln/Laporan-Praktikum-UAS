@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section img {
+    border-radius: 100%;
+    border: 10px solid rgb(225, 255, 255);
+}
+table, th, td {
+    border: 1px solid black;
+    border-radius: 10px;
+  }
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
